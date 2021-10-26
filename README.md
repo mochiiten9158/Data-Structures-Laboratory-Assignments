@@ -8,3 +8,5 @@ Will be updated as machine problems are completed... (09/18/21)
 4) Lab 03 : Ngrams
 5) Lab 04 : Runtime Complexities
 6) Lab 05 : Array List
+7) Lab 06 : Linked Lists
+8) Lab 07 : Ordered Hashtables
