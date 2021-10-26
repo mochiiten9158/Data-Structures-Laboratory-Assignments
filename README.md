@@ -9,4 +9,4 @@ Will be updated as machine problems are completed... (09/18/21)
 5) Lab 04 : Runtime Complexities
 6) Lab 05 : Array List
 7) Lab 06 : Linked Lists
-8) Lab 07 : Ordered Hashtables
+8) Lab 07 : Ordered Hashtable
