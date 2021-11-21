@@ -10,6 +10,9 @@ Will be updated as machine problems are completed... (10/26/21)
 6) Lab 05 : Array List
 7) Lab 06 : Linked Lists
 8) Lab 07 : Ordered Hashtable
+9) Lab 09 : Stacks and Queues
+10) Lab 10 : Heaps
+11) Lab 11 : Recursion
 
 Midterm coding problems :
 1) Midterm 1 Coding Problems
