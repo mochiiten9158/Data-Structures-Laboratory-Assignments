@@ -1,6 +1,6 @@
 # CS331-machine-problems
 All the machine problems in Professor's Lee's course CS331
-Will be updated as machine problems are completed... (10/26/21)
+Will be updated as machine problems are completed... (12/06/21)
 
 1) Lab 00 : Preliminaries
 2) Lab 01 : Basic Python
@@ -13,6 +13,8 @@ Will be updated as machine problems are completed... (10/26/21)
 9) Lab 09 : Stacks and Queues
 10) Lab 10 : Heaps
 11) Lab 11 : Recursion
+12) Lab 12 : BST
 
 Midterm coding problems :
 1) Midterm 1 Coding Problems
+2) Midterm 2 Coding Problems
